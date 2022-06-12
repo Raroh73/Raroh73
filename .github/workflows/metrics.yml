@@ -22,6 +22,7 @@ jobs:
           committer_token: ${{ github.token }}
           committer_branch: main
           committer_message: "chore: update metrics"
+          config_output: auto
           filename: metrics.*
           template: classic
           base: header, activity, community, repositories, metadata
