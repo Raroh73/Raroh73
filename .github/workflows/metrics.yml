@@ -22,6 +22,6 @@ jobs:
           committer_token: ${{ github.token }}
           committer_branch: main
           committer_message: "chore: update metrics"
-          filename: metrics.svg
+          filename: metrics.*
           template: classic
           base: header, activity, community, repositories, metadata
