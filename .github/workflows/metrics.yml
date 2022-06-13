@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write
     steps:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
@@ -18,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Raroh73
           config_timezone: Europe/Warsaw
-          output_action: commit
+          output_action: pull-request-merge
           committer_token: ${{ github.token }}
           committer_branch: main
           committer_message: "chore: update metrics"
