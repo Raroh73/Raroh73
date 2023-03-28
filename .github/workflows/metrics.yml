@@ -16,7 +16,7 @@ jobs:
           user: Raroh73
           config_timezone: Europe/Warsaw
           output_action: commit
-          committer_token: ${{ github.token }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: main
           committer_message: "chore: update metrics"
           config_output: auto
