@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1060 Commits
+                            1077 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,13 +219,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="214.5025491189887" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="214.5025491189887" y="0" width="155.81109686652158" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="370.3136459855103" y="0" width="41.38367967562088" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="411.6973256611312" y="0" width="38.81905727318804" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="450.5163829343192" y="0" width="6.774991801079276" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.2913747353985" y="0" width="2.002325512059867" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.29370024745833" y="0" width="0.7062997525416654" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.08169869889701" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="188.08169869889701" y="0" width="172.57975034674064" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="360.66144904563765" y="0" width="45.83746119807146" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="406.4989102437091" y="0" width="42.99682979988112" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.4957400435902" y="0" width="7.504127864738128" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.9998679083283" y="0" width="2.217819166501552" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.2176870748299" y="0" width="0.782312925170068" height="8" fill="#701516"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -237,8 +237,8 @@
                                 Nix
                             </div>
                             <small>
-                                <div>31.2 kB</div>
-                                <div>46.63%</div>
+                                <div>24.7 kB</div>
+                                <div>40.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -250,7 +250,7 @@
                             </div>
                             <small>
                                 <div>6.04 kB</div>
-                                <div>9%</div>
+                                <div>9.96%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -262,7 +262,7 @@
                             </div>
                             <small>
                                 <div>988 bytes</div>
-                                <div>1.47%</div>
+                                <div>1.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -274,7 +274,7 @@
                             </div>
                             <small>
                                 <div>103 bytes</div>
-                                <div>0.15%</div>
+                                <div>0.17%</div>
                             </small>
                         </div>
                     </section>
@@ -288,7 +288,7 @@
                             </div>
                             <small>
                                 <div>22.7 kB</div>
-                                <div>33.87%</div>
+                                <div>37.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -300,7 +300,7 @@
                             </div>
                             <small>
                                 <div>5.66 kB</div>
-                                <div>8.44%</div>
+                                <div>9.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -312,7 +312,7 @@
                             </div>
                             <small>
                                 <div>292 bytes</div>
-                                <div>0.44%</div>
+                                <div>0.48%</div>
                             </small>
                         </div>
                     </section>
@@ -339,7 +339,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 4 days
+                            Current streak 5 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -363,7 +363,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.76
+                            Average per day at ~2.80
                         </div>
                     </section>
                 </div>
@@ -2319,14 +2319,14 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-3.4, 6.727272727272727)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2727272727272725 0,2.2727272727272725 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2727272727272725 1.7,3.2727272727272725 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2727272727272725 0,2.2727272727272725 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2727272727272725 1.7,3.2727272727272725 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.454545454545453)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.818181818181818)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2334,9 +2334,14 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.454545454545453)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 8.90909090909091)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.090909090909091 0,4.090909090909091 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.090909090909091 1.7,5.090909090909091 z"/>
                             </g>
                         </g>
                     </g>
@@ -2358,34 +2363,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Raroh73/nothing</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Raroh73/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ad0f3a6</div>
-                                        <div class="message">Merge pull request #35 from Raroh73/dependabot/npm_and_yarn/eslint-config-prettier-8.10.0
-
-chore: bump eslint-config-prettier from 8.9.0 to 8.10.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a754d65</div>
-                                        <div class="message">chore: bump eslint-config-prettier from 8.9.0 to 8.10.0
-
-Bumps [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) from 8.9.0 to 8.10.0.
-- [Changelog](https://github.com/prettier/eslint-config-prettier/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/prettier/eslint-config-prettier/compare/v8.9.0...v8.10.0)
-
----
-updated-dependencies:
-- dependency-name: eslint-config-prettier
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#408c24a</div>
+                                        <div class="message">chore: regenerate backup token</div>
                                     </div>
                                 </div>
                             </section>
@@ -2397,35 +2383,27 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Raroh73/nothing</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">Raroh73/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e0508d3</div>
-                                        <div class="message">Merge pull request #34 from Raroh73/dependabot/npm_and_yarn/prettier-3.0.1
-
-chore: bump prettier from 3.0.0 to 3.0.1</div>
+                                        <div class="sha">#40c1a93</div>
+                                        <div class="message">chore: regenerate lego-token</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2cbfb6b</div>
-                                        <div class="message">chore: bump prettier from 3.0.0 to 3.0.1
-
-Bumps [prettier](https://github.com/prettier/prettier) from 3.0.0 to 3.0.1.
-- [Release notes](https://github.com/prettier/prettier/releases)
-- [Changelog](https://github.com/prettier/prettier/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/prettier/prettier/compare/3.0.0...3.0.1)
-
----
-updated-dependencies:
-- dependency-name: prettier
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#140cda9</div>
+                                        <div class="message">chore: regenerate cloudflare-dyndns-token</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7cd417</div>
+                                        <div class="message">chore: rekey secrets</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b9cc5e</div>
+                                        <div class="message">fix: add needed parameter</div>
                                     </div>
                                 </div>
                             </section>
@@ -2438,14 +2416,14 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Raroh73/Raroh73</span>
+                                        <span class="repo">Raroh73/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3b7e1ce</div>
-                                        <div class="message">feat: disable achievements plugin</div>
+                                        <div class="sha">#fda2c98</div>
+                                        <div class="message">revert "feat: remove kernel parameter from install image"</div>
                                     </div>
                                 </div>
                             </section>
@@ -2458,33 +2436,18 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">Raroh73/nothing</span>
+                                        <span class="repo">Raroh73/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2b73fe2</div>
-                                        <div class="message">Merge pull request #33 from Raroh73/dependabot/npm_and_yarn/types/node-20.4.6
-
-chore: bump @types/node from 20.4.5 to 20.4.6</div>
+                                        <div class="sha">#176676c</div>
+                                        <div class="message">feat: remove open ports</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#60c88e6</div>
-                                        <div class="message">chore: bump @types/node from 20.4.5 to 20.4.6
-
-Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 20.4.5 to 20.4.6.
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
-
----
-updated-dependencies:
-- dependency-name: "@types/node"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#90e57cd</div>
+                                        <div class="message">feat: remove kernel parameter from install image</div>
                                     </div>
                                 </div>
                             </section>
@@ -2496,34 +2459,15 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Raroh73/nothing</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Raroh73/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b0bf222</div>
-                                        <div class="message">Merge pull request #30 from Raroh73/dependabot/npm_and_yarn/vitest/coverage-v8-0.34.1
-
-chore: bump @vitest/coverage-v8 from 0.33.0 to 0.34.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95c093c</div>
-                                        <div class="message">chore: bump @vitest/coverage-v8 from 0.33.0 to 0.34.1
-
-Bumps [@vitest/coverage-v8](https://github.com/vitest-dev/vitest/tree/HEAD/packages/coverage-v8) from 0.33.0 to 0.34.1.
-- [Release notes](https://github.com/vitest-dev/vitest/releases)
-- [Commits](https://github.com/vitest-dev/vitest/commits/v0.34.1/packages/coverage-v8)
-
----
-updated-dependencies:
-- dependency-name: "@vitest/coverage-v8"
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#08ef3c0</div>
+                                        <div class="message">fix: rename deprecated fonts option</div>
                                     </div>
                                 </div>
                             </section>
@@ -2533,7 +2477,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Aug 2023, 03:25:04 (timezone Europe/Warsaw) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 6 Aug 2023, 03:21:59 (timezone Europe/Warsaw) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
