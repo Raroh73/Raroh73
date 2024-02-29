@@ -1,4 +1,4 @@
-name: Generate metrics
+name: Generate Metrics
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Update metrics
+      - name: Update Metrics
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
